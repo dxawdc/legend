@@ -1,0 +1,7 @@
+app_id（游戏ID）：5
+
+app_key（游戏KEY）：5a2e5a8742434fddbdc5fe9c75961e86
+
+app_Secret（游戏密钥）：9118324742d44fefa3773026a972df38
+
+client_key（客户端KEY）：45adac8bbe794ea4a3573935bd67312b
